@@ -1,5 +1,6 @@
 package sig.oss;
 //Initial Grader Project
+// Hello
 class Grader { 
 	static public Grade calculate_grade(int mid, int fin) {
 		int tot;
